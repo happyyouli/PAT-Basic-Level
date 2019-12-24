@@ -13,6 +13,7 @@ int main() {
 			cout << "Case #" << i + 1 << ": true" << endl;
 		else cout << "Case #" << i + 1 << ": false" << endl;
 	}
+	
 	return 0;
 }
 
